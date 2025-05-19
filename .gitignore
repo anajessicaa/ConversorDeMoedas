@@ -1,0 +1,10 @@
+/out/
+*.iml
+.idea/
+*.log
+*.tmp
+*.swp
+*.class
+conversao.txt
+.DS_Store
+Thumbs.db
